@@ -1,11 +1,5 @@
 <table>
   <tr>
-    <td width="250" valign="top">
-      <img src="https://github.com/ab1lmns/Abilmansur/blob/main/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20WhatsApp%202025-08-13%20%D0%B2%2023.12.17_8f0c6bba.jpg?raw=true" width="220" style="border-radius: 10px;"/>
-      <p align="center">
-        <b>Kazakhstan,Pavlodar</b>
-      </p>
-      </td>
     <td valign="top">
       <h1 align="center">I'm Ab1lmansur</h1>
       <h3 align="center">Future Fullstack Developer</h3>
